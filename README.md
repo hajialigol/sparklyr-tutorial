@@ -1,5 +1,4 @@
-# uber-economics-analytics
-
+# sparklyr-tutorial
 ## How to install Spark through R
 Install ‘sparklyr’ by ruining ```install.packages("sparklyr")```  
 Install a local version of Spark by running the following commands  
